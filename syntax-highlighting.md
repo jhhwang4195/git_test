@@ -1,3 +1,4 @@
+## before syntax highlighting	
 ```
 void f() 
 {
@@ -5,7 +6,7 @@ void f()
 }
 ```
 
-	
+## before syntax highlighting	
 ```c
 void f() 
 {
@@ -13,6 +14,7 @@ void f()
 }
 ```
 
+## before syntax highlighting	
 ```
 def sumMatrix(A,B):
     answer = []
@@ -29,6 +31,7 @@ def sumMatrix(A,B):
     return answer`
 ```
 
+## after syntax highlighting	
 ```python
 def sumMatrix(A,B):
     answer = []
